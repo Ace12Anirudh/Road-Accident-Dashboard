@@ -1,6 +1,6 @@
 # 🚗 Road Accident Analysis Dashboard 📊
 
-![Project Banner](https://user-images.githubusercontent.com/74038190/212284102-fe8a8a65-1d42-4638-a567-97c77d483c27.gif) 
+![Project Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rudderstack.com%2Flearn%2Fdata-analytics%2Fthe-difference-between-data-analytics-and-data-visualization%2F&psig=AOvVaw2jExtKetANrtYit7DCbsun&ust=1757602876640000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCYmJe7zo8DFQAAAAAdAAAAABAE) 
 <!-- You can create a cool banner image at canva.com or use a GIF of your project! -->
 
 > An interactive and insightful dashboard built to analyze road accident data, identify critical trends, and provide actionable insights to enhance public safety.
@@ -27,7 +27,7 @@ Here's a glimpse of the dashboard in action. Watch how the data responds to diff
   Then, upload the GIF to your GitHub repository and link it here.
 -->
 
-![Dashboard GIF](https://github.com/your-username/your-repository-name/blob/main/images/dashboard-preview.gif?raw=true)
+![Dashboard GIF](https://github.com/Ace12Anirudh/Road-Accident-Dashboard/blob/47f442331fb139bea6112aadd0f80d20885abf53/Road%20Accident%20Dashboard_page-0001.jpg)
 <!-- **REPLACE THIS:** Upload your screenshot/gif to a folder in your repo (e.g., an 'images' folder) and change the link above. -->
 
 ---
