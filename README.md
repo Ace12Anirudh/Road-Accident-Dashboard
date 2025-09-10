@@ -105,7 +105,7 @@ The dataset used for this analysis is the "Road Safety Data" from [**mention the
 
 ### 📬 Contact
 
-Anirudh - [@YourLinkedInProfile](https://www.linkedin.com/in/your-username/) - your.email@example.com
+Anirudh - [@YourLinkedInProfile](https://www.linkedin.com/in/anirudh-ojha-4414b9244/) - anirudhtrivedi3014@gmail.com
 
 Project Link: [https://github.com/Ace12Anirudh/Road-Accident-Dashboard](https://github.com/Ace12Anirudh/Road-Accident-Dashboard)
 
