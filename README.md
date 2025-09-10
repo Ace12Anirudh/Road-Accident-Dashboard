@@ -11,7 +11,7 @@
 
 **Check out the live interactive dashboard here:** 
 
-**[🚀 Launch Dashboard]([https://onedrive.live.com/personal/351f05c8298f5527/_layouts/15/Doc.aspx?sourcedoc=%7B94CF9D78-9B3A-4A89-B453-F94D335A119B%7D&file=Road%20Accident%20DashBoard.xlsx&action=default&mobileredirect=true])
+**[🚀 Launch Dashboard]([https://1drv.ms/x/c/351f05c8298f5527/EXidz5Q6m4lKtFP5TTNaEZsBpH8x4RBWrewc_bZpAnA2oA?e=1bCs1L])**
 
 <!-- IMPORTANT: Replace the link above with the actual link to your Power BI, Tableau Public, or other hosted dashboard. -->
 
@@ -89,7 +89,7 @@ This project was brought to life using the following tools:
 
 To explore the dashboard:
 
-1.  **Navigate** to the **[Live Demo link]([https://onedrive.live.com/personal/351f05c8298f5527/_layouts/15/Doc.aspx?sourcedoc=%7B94CF9D78-9B3A-4A89-B453-F94D335A119B%7D&file=Road%20Accident%20DashBoard.xlsx&action=default&mobileredirect=true]).
+1.  **Navigate** to the **[Live Demo link]([https://1drv.ms/x/c/351f05c8298f5527/EXidz5Q6m4lKtFP5TTNaEZsBpH8x4RBWrewc_bZpAnA2oA?e=1bCs1L]).
 2.  **Use the slicers** on the left/top to filter the data based on your questions.
 3.  **Click on any chart element** (like a bar or a pie slice) to cross-filter the entire page.
 4.  **Hover over visuals** to see detailed tooltips with exact numbers.
